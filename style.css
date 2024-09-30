@@ -1,0 +1,11 @@
+.dropdown-menu > li > a:hover {
+  background: grey;
+}
+
+input::placeholder {
+  color: #fff !important;
+}
+
+.navbar-btn > span {
+  filter: invert(1);
+}
